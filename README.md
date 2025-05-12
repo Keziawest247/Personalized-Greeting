@@ -1,4 +1,4 @@
-# Program 1: Personalized Greeting Creator
+# Personalized Greeting Creator
 
 This program stores a collection of greeting strings in a list, which are organized into a dictionary for easy access. The main function, run_all, prompts the user to enter their name and select between a random greeting or a manual choice. Based on the user's selection, the corresponding function is executed. Finally, the program enhances the chosen greeting by writing it to a greeting file.
 
